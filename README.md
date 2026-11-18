@@ -9,7 +9,7 @@
 ---
 
 ## 🔗 Live Site
-👉 **Explore the live portfolio here:** **[https://mrgagan-portfolio.vercel.app/](https://mrgagan-portfolio.vercel.app/)**
+👉 **Explore the live portfolio here:** **[https://mrgagan-portfolio.vercel.app/](portfolio)**
 
 ---
 
